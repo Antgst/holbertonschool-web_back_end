@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
-'''
-'''
+"""Module that provides a function to add two floats."""
+
 
 def add(a: float, b: float) -> float:
-    '''Adds to float numbers'''
+    """Return the sum of two floats."""
     return a + b
