@@ -2,7 +2,7 @@
 """Module providing a helper function for pagination indexing."""
 
 
-def index_range (page: int, page_size: int) -> tuple [int, int]:
+def index_range(page: int, page_size: int) -> tuple[int, int]:
     """Return a tuple containing the start and end indexes for pagination.
 
     Args:
