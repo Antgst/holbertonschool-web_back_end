@@ -33,10 +33,10 @@ class Server:
         """
         if self.__indexed_dataset is None:
             dataset = self.dataset()
-        truncated_dataset = dataset[:1000]
-        self.__indexed_dataset = {
-            i: truncated_dataset[i] for i in range(len(truncated_dataset))
-        }
+            truncated_dataset = dataset[:1000]
+            self.__indexed_dataset = {
+                i: dataset[i] for i in range(len(dataset))
+            }
         return self.__indexed_dataset
 
     def get_hyper_index(self, index: int = None, page_size: int = 10) -> Dict:
@@ -46,7 +46,7 @@ class Server:
         if index is None:
             index = 0
 
-        assert isinstance(index, int) and index >= 0 and index < len(self.dataset())
+        assert isinstance(index, int) and 0 <= index < len(self.dataset())
         assert isinstance(page_size, int) and page_size > 0
 
         data = []
