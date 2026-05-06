@@ -1,12 +1,12 @@
-# ðŸ“˜ Python - Variable Annotations
+# 📘 Python - Variable Annotations
 
-## ðŸ“Œ Description
+## 📌 Description
 
 _No description detected._
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 **Read or watch**:
 
@@ -18,7 +18,7 @@ _No description detected._
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 ### General
 
@@ -38,7 +38,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 ### General
 
@@ -70,20 +70,20 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 _No specific setup detected._
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 _No quiz detected in the exported HTML._
 
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. Basic annotations - add</summary>
@@ -172,12 +172,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 0. Basic annotations - add
 Commit used:
 User:
@@ -192,9 +192,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. Basic annotations - add"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -286,12 +286,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 1. Basic annotations - concat
 Commit used:
 User:
@@ -306,9 +306,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "1. Basic annotations - concat"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -412,12 +412,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 2. Basic annotations - floor
 Commit used:
 User:
@@ -432,9 +432,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. Basic annotations - floor"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -534,12 +534,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 3. Basic annotations - to string
 Commit used:
 User:
@@ -554,9 +554,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "3. Basic annotations - to string"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -700,12 +700,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 4. Define variables
 Commit used:
 User:
@@ -720,9 +720,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "4. Define variables"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -824,12 +824,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 5. Complex types - list of floats
 Commit used:
 User:
@@ -844,9 +844,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "5. Complex types - list of floats"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -955,12 +955,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 6. Complex types - mixed list
 Commit used:
 User:
@@ -975,9 +975,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "6. Complex types - mixed list"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1087,12 +1087,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 7. Complex types - string and int/float to tuple
 Commit used:
 User:
@@ -1107,9 +1107,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "7. Complex types - string and int/float to tuple"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1192,12 +1192,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 8. Complex types - functions
 Commit used:
 User:
@@ -1212,9 +1212,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "8. Complex types - functions"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1298,12 +1298,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 9. Let's duck type an iterable object
 Commit used:
 User:
@@ -1318,9 +1318,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "9. Let's duck type an iterable object"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1330,13 +1330,13 @@ Loading...
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 

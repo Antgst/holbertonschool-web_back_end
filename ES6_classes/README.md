@@ -1,12 +1,12 @@
-# ðŸ“˜ ES6 classes
+# 📘 ES6 classes
 
-## ðŸ“Œ Description
+## 📌 Description
 
 _No description detected._
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 **Read or watch**:
 
@@ -18,7 +18,7 @@ _No description detected._
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
@@ -36,7 +36,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 - All your files will be interpreted/compiled on Ubuntu 20.04 LTS using `node 20.x.x` and `npm 9.x.x`
 
@@ -56,7 +56,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 ### Install NodeJS 20.x.x
 
@@ -104,14 +104,14 @@ in your project directory:
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 _No quiz detected in the exported HTML._
 
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. You used to attend a place like this at some point</summary>
@@ -191,12 +191,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 0. You used to attend a place like this at some point
 Commit used:
 User:
@@ -211,9 +211,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. You used to attend a place like this at some point"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -308,12 +308,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 1. Let's make some classrooms
 Commit used:
 User:
@@ -328,9 +328,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "1. Let's make some classrooms"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -507,12 +507,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 2. A Course, Getters, and Setters
 Commit used:
 User:
@@ -527,9 +527,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. A Course, Getters, and Setters"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -628,12 +628,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 3. Methods, static methods, computed methods names..... MONEY
 Commit used:
 User:
@@ -648,9 +648,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "3. Methods, static methods, computed methods names..... MONEY"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -797,12 +797,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 4. Pricing
 Commit used:
 User:
@@ -817,9 +817,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "4. Pricing"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -948,12 +948,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 5. A Building
 Commit used:
 User:
@@ -968,9 +968,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "5. A Building"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1083,12 +1083,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 6. Inheritance
 Commit used:
 User:
@@ -1103,9 +1103,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "6. Inheritance"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1212,12 +1212,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 7. Airport
 Commit used:
 User:
@@ -1232,9 +1232,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "7. Airport"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1337,12 +1337,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 8. Primitive - Holberton Class
 Commit used:
 User:
@@ -1357,9 +1357,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "8. Primitive - Holberton Class"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1699,12 +1699,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 9. Hoisting
 Commit used:
 User:
@@ -1719,9 +1719,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "9. Hoisting"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1881,12 +1881,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 10. Vroom
 Commit used:
 User:
@@ -1901,9 +1901,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "10. Vroom"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1913,13 +1913,13 @@ Loading...
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 

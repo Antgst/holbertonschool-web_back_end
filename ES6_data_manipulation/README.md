@@ -1,12 +1,12 @@
-# ðŸ“˜ ES6 data manipulation
+# 📘 ES6 data manipulation
 
-## ðŸ“Œ Description
+## 📌 Description
 
 _No description detected._
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 **Read or watch**:
 
@@ -24,7 +24,7 @@ _No description detected._
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
@@ -38,7 +38,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 - All your files will be interpreted/compiled on Ubuntu 20.04 LTS using `node 20.x.x` and `npm 9.x.x`
 
@@ -60,7 +60,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 ### Install NodeJS 20.x.x
 
@@ -108,14 +108,14 @@ in your project directory:
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 _No quiz detected in the exported HTML._
 
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. Basic list of objects</summary>
@@ -236,13 +236,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "0. Basic list of objects"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -334,13 +334,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "1. More mapping"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -448,13 +448,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "2. Filter"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -538,13 +538,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "3. Reduce"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -725,13 +725,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "4. Combine"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -851,13 +851,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "5. Typed Arrays"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -955,13 +955,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "6. Set data structure"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1101,13 +1101,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "7. More set data structure"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1217,13 +1217,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "8. Clean set"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1322,13 +1322,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "9. Map data structure"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1463,13 +1463,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "10. More map data structure"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1479,13 +1479,13 @@ Loading...
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 

@@ -1,12 +1,12 @@
-# ðŸ“˜ Pagination
+# 📘 Pagination
 
-## ðŸ“Œ Description
+## 📌 Description
 
 _No description detected._
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 **Read or watch:**
 
@@ -18,7 +18,7 @@ _No description detected._
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
@@ -32,7 +32,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 - All your files will be interpreted/compiled on Ubuntu 20.04 LTS using `python3` (version 3.9)
 
@@ -56,20 +56,20 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 _No specific setup detected._
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 _No quiz detected in the exported HTML._
 
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. Simple helper function</summary>
@@ -172,12 +172,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 0. Simple helper function
 Commit used:
 User:
@@ -192,9 +192,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. Simple helper function"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -485,12 +485,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 1. Simple pagination
 Commit used:
 User:
@@ -505,9 +505,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "1. Simple pagination"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -810,12 +810,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 2. Hypermedia pagination
 Commit used:
 User:
@@ -830,9 +830,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. Hypermedia pagination"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1259,12 +1259,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 3. Deletion-resilient hypermedia pagination
 Commit used:
 User:
@@ -1279,9 +1279,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "3. Deletion-resilient hypermedia pagination"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1291,13 +1291,13 @@ Loading...
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 

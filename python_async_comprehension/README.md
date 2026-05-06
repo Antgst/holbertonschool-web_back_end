@@ -1,12 +1,12 @@
-# ðŸ“˜ Python - Async Comprehension
+# 📘 Python - Async Comprehension
 
-## ðŸ“Œ Description
+## 📌 Description
 
 _No description detected._
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 **Read or watch**:
 
@@ -14,13 +14,13 @@ _No description detected._
 
 - [PEP 530 -- Asynchronous Comprehensions](https://peps.python.org/pep-0530/)
 
-- [Whatâ€™s New in Python: Asynchronous Comprehensions / Generators](https://blog.pythonlibrary.org/2017/02/14/whats-new-in-python-asynchronous-comprehensions-generators/)
+- [What’s New in Python: Asynchronous Comprehensions / Generators](https://blog.pythonlibrary.org/2017/02/14/whats-new-in-python-asynchronous-comprehensions-generators/)
 
 - [Type-hints for generators](https://stackoverflow.com/questions/42531143/how-can-i-type-hint-a-generator-in-python-3)
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
@@ -34,7 +34,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 ### General
 
@@ -64,20 +64,20 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 _No specific setup detected._
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 _No quiz detected in the exported HTML._
 
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. Async Generator</summary>
@@ -175,12 +175,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 0. Async Generator
 Commit used:
 User:
@@ -195,9 +195,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. Async Generator"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -296,12 +296,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 1. Async Comprehensions
 Commit used:
 User:
@@ -316,9 +316,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "1. Async Comprehensions"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -405,12 +405,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 2. Run time for four parallel comprehensions
 Commit used:
 User:
@@ -425,9 +425,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. Run time for four parallel comprehensions"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -437,13 +437,13 @@ Loading...
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 

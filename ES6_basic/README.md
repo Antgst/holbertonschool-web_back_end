@@ -1,12 +1,12 @@
-# ðŸ“˜ ES6 Basics
+# 📘 ES6 Basics
 
-## ðŸ“Œ Description
+## 📌 Description
 
 _No description detected._
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 **Read or watch**:
 
@@ -22,11 +22,11 @@ _No description detected._
 
 - [Rest parameter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
 
-- [Javascript ES6 â€” Iterables and Iterators](https://medium.com/data-science/javascript-es6-iterables-and-iterators-de18b54f4d4)
+- [Javascript ES6 — Iterables and Iterators](https://medium.com/data-science/javascript-es6-iterables-and-iterators-de18b54f4d4)
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
@@ -52,7 +52,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 ### General
 
@@ -76,7 +76,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 ### Install NodeJS 20.x.x
 
@@ -124,14 +124,14 @@ in your project directory:
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 _No quiz detected in the exported HTML._
 
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. Const or let?</summary>
@@ -247,12 +247,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 0. Const or let?
 Commit used:
 User:
@@ -267,9 +267,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. Const or let?"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -386,12 +386,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 1. Block Scope
 Commit used:
 User:
@@ -406,9 +406,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "1. Block Scope"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -528,12 +528,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 2. Arrow functions
 Commit used:
 User:
@@ -548,9 +548,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. Arrow functions"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -664,12 +664,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 3. Parameter defaults
 Commit used:
 User:
@@ -684,9 +684,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "3. Parameter defaults"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -785,12 +785,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 4. Rest parameter syntax for functions
 Commit used:
 User:
@@ -805,9 +805,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "4. Rest parameter syntax for functions"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -914,12 +914,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 5. The wonders of spread syntax
 Commit used:
 User:
@@ -934,9 +934,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "5. The wonders of spread syntax"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1087,12 +1087,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 6. Take advantage of template literals
 Commit used:
 User:
@@ -1107,9 +1107,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "6. Take advantage of template literals"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1217,12 +1217,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 7. Object property value shorthand syntax
 Commit used:
 User:
@@ -1237,9 +1237,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "7. Object property value shorthand syntax"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1374,12 +1374,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 8. No need to create empty objects before adding in properties
 Commit used:
 User:
@@ -1394,9 +1394,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "8. No need to create empty objects before adding in properties"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1529,12 +1529,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 9. ES6 method properties
 Commit used:
 User:
@@ -1549,9 +1549,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "9. ES6 method properties"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1668,12 +1668,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 10. For...of Loops
 Commit used:
 User:
@@ -1688,9 +1688,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "10. For...of Loops"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1796,12 +1796,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 11. Iterator
 Commit used:
 User:
@@ -1816,9 +1816,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "11. Iterator"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1956,12 +1956,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 12. Let's create a report object
 Commit used:
 User:
@@ -1976,9 +1976,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "12. Let's create a report object"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1988,13 +1988,13 @@ Loading...
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 
