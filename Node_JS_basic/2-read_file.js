@@ -5,7 +5,7 @@ function countStudents(path) {
 
   try {
     data = fs.readFileSync(path, "utf8");
-  } catch (error) {
+  } catch {
     throw new Error("Cannot load the database");
   }
 
@@ -18,21 +18,23 @@ function countStudents(path) {
   const fields = {};
 
   students.forEach((student) => {
-    const columns = student.split(",");
-    const firstName = columns[0].trim();
-    const field = columns[columns.length - 1].trim();
+    const columns = student.split(",").map((column) => column.trim());
+
+    const firstname = columns[0];
+    const field = columns[columns.length - 1];
 
     if (!fields[field]) {
       fields[field] = [];
     }
 
-    fields[field].push(firstName);
+    fields[field].push(firstname);
   });
 
   Object.keys(fields).forEach((field) => {
-    console.log(
-      `Number of students in ${field}: ${fields[field].length}. List: ${fields[field].join(", ")}`,
-    );
+    const number = fields[field].length;
+    const list = fields[field].join(", ");
+
+    console.log(`Number of students in ${field}: ${number}. List: ${list}`);
   });
 }
 
